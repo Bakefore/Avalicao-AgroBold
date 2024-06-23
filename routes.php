@@ -1,5 +1,4 @@
 <?php
-use App\Controller\PrincipalController;
 use App\Controller\ClienteController;
 
 $routes = [

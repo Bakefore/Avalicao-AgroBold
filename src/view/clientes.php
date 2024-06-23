@@ -6,13 +6,13 @@
     <title>Avaliação - Gestão de Clientes</title>
 
     <!-- Bootstrap CSS -->
-    <link href="common/datatable/bootstrap.min.css" rel="stylesheet">
+    <link href="common/datatable/bootstrap_css_file.min.css" rel="stylesheet">
 
     <!-- DataTables CSS -->
-    <link href="common/datatable/dataTables.bootstrap4.min.css" rel="stylesheet">
+    <!-- <link href="common/datatable/dataTables.bootstrap4_css_file.min.css" rel="stylesheet">
 
-    <!--CSS da página-->	
-    <link rel="stylesheet" type="text/css" href="common/css/style.css">
+    <!-- CSS da página	 -->
+    <!-- <link rel="stylesheet" type="text/css" href="common/css/style.css"> -->
 
     <!--Ícone superior da página-->
     <link rel="icon" type="image/x-icon" href="common/img/ico/agro_bold.ico" />
@@ -303,11 +303,11 @@
     <script src="common/datatable/jquery-3.5.1.min.js"></script>
 
     <!-- Bootstrap JS -->
-    <script src="common/datatable/bootstrap.min.js"></script>
+    <script src="common/datatable/bootstrap_js_file.min.js"></script>
 
     <!-- DataTables JS -->
     <script src="common/datatable/jquery.dataTables.min.js"></script>
-    <script src="common/datatable/dataTables.bootstrap4.min.js"></script>
+    <script src="common/datatable/dataTables.bootstrap4_js_file.min.js"></script>
 
     <script>
         inserirEstados("select-cadastro-uf");
