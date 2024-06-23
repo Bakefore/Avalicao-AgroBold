@@ -9,10 +9,10 @@
     <link href="common/datatable/bootstrap_css_file.min.css" rel="stylesheet">
 
     <!-- DataTables CSS -->
-    <!-- <link href="common/datatable/dataTables.bootstrap4_css_file.min.css" rel="stylesheet">
+    <link href="common/datatable/dataTables.bootstrap4_css_file.min.css" rel="stylesheet">
 
     <!-- CSS da página	 -->
-    <!-- <link rel="stylesheet" type="text/css" href="common/css/style.css"> -->
+    <link rel="stylesheet" type="text/css" href="common/css/style.css">
 
     <!--Ícone superior da página-->
     <link rel="icon" type="image/x-icon" href="common/img/ico/agro_bold.ico" />
