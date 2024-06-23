@@ -1,0 +1,41 @@
+/**Início Tela Principal**/
+body{
+  height: 100%;
+  font-family: 'Roboto', sans-serif;                
+  font-weight: 300;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-color: #fff;
+}
+
+p{
+  text-align: justify;
+  font-size: 18px;
+  color: black;
+}
+
+select {
+  height: 30px;
+  width: 100%;
+}
+
+.margin-bottom--27{
+  margin-bottom: -27px;
+}
+
+.font-weight-400{
+  font-weight: 400;
+}
+
+label {
+  cursor: pointer;
+}
+
+.display-none {
+  display: none;
+}
+
+.margin-top-10 {
+  margin-top: 10px;
+}
